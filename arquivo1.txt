@@ -1,3 +1,5 @@
+uma alteração no inicio
+
 uma linha antes
 
 Promeira alteração no arquivo
