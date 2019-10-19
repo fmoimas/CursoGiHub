@@ -1,0 +1,9 @@
+uma linha antes
+
+Promeira alteração no arquivo
+
+uma linha depois
+
+nova alteração para versão
+
+esta linha originou na branch dev...
