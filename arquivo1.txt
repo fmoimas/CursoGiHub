@@ -2,8 +2,8 @@ uma linha antes
 
 Promeira alteração no arquivo
 
-uma linha depois
+alteração na dev
 
 nova alteração para versão
 
-esta linha originou na branch dev...
+ultima linha do arquivo
